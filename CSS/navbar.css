@@ -1,0 +1,7 @@
+#nabvar1 {
+    background-color: var(--green);
+}
+#nav-content {
+margin-left: 55%;
+background-color: var(--lightGreen);
+}

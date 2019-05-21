@@ -1,7 +1,12 @@
 #nabvar1 {
+    float: right;
     background-color: var(--green);
 }
 #nav-content {
-margin-left: 55%;
-background-color: var(--lightGreen);
+margin-left: 75%;
+background-color: rgb(1, 80, 31);
+color: red;
+}
+.bg-success{
+    background-color: rgb(22, 112, 0)!important
 }

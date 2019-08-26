@@ -5,6 +5,17 @@
     color: #03a315; 
     text-shadow: 10px;
     text-align: center;
+    height: 500px;
+}
+
+.jumbotron1{
+    background: url('../assets/construction.jpg') no-repeat center;
+    background-size: cover;
+    padding: 30px;
+    background-color: white;
+    color: #03a315; 
+    text-shadow: 10px;
+    text-align: center;
     height: 383px;
 }
 

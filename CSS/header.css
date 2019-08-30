@@ -1,14 +1,16 @@
 .jumbotron{
+    font-family: var(--font-two);
     background: url('../assets/18mclaren.jpg') no-repeat center;
     background-size: cover;
     background-color: white;
-    color: #03a315; 
+    color: #197a01; 
     text-shadow: 10px;
     text-align: center;
     height: 500px;
 }
 
 .jumbotron1{
+    font-family: var(--font-one);
     background: url('../assets/construction.jpg') no-repeat center;
     background-size: cover;
     padding: 30px;

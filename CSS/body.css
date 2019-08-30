@@ -1,5 +1,6 @@
 body{
     background: black;
-    font-family: var(--font-one);
+    font-size: 20px;
+    font-family: var(--font-two);
     color: black;
 }

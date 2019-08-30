@@ -1,4 +1,5 @@
 .jumbotron{
+    padding: 45px;
     font-family: var(--font-two);
     background: url('../assets/18mclaren.jpg') no-repeat center;
     background-size: cover;
